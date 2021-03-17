@@ -1,0 +1,2 @@
+rootProject.name='GeniusApp'
+include ':app'
